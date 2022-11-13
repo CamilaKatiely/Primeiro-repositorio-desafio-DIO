@@ -1,0 +1,3 @@
+### Neste documento estou acrescentando informações no arquivo local para atualizar no Git
+
+# Crossing fingers :crossed_fingers:
